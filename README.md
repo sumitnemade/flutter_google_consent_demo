@@ -1,5 +1,7 @@
 # google_consent
 
+Flutter app to use native android google conset sdk
+
 A new Flutter application.
 
 ## Getting Started
